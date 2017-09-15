@@ -1,5 +1,5 @@
 <?php
 /*
-** Some code
+** Some code 2
 */
 ?>
